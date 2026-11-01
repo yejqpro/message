@@ -1,7 +1,7 @@
 # 在线留言板
 
 一个基于 Cloudflare Workers 和 D1 数据库的在线留言板应用。
-演示地址:https://message.52077777.xyz/
+-演示地址:https://message.52077777.xyz/
 
 ## 功能特性
 
